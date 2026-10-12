@@ -40,4 +40,5 @@ The bucket policy and public access configuration must be reviewed carefully bef
 
 ![AWS S3 Website](screenshots/website-running.png)
 
-![S3 Bucket Configuration](screenshots/s3-bucket.png)
+## code to allow access in json 
+![S3 Bucket Configuration](<screenshots/Bucket piolicy_permession-json formate-image.png>)
