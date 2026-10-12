@@ -34,3 +34,8 @@ See the `screenshots` folder for the deployed website screenshot.
 
 ## Security Note
 The bucket policy and public access configuration must be reviewed carefully before deployment. Never upload AWS credentials or other secrets.
+## Website Screenshots
+
+![Website Preview](screenshots/deploy static website using S3 bucket..png)
+
+![S3 Bucket Configuration](screenshots/s3-bucket.png)
